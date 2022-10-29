@@ -1,5 +1,6 @@
 # My_Movies
-CSS 216 Android programming - Final Project
+**CSS 216 Android programming** - Final Project
+![for mockup](https://user-images.githubusercontent.com/91144936/198847564-64aa0ab4-9d5b-41c8-a0b1-95affa5e70d7.jpg)
 
 # Built With 🛠
 + **Kotlin** - Official programming language for Android development. 
