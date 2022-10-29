@@ -1,9 +1,6 @@
 # My_Movies
 **CSS 216 Android programming** - Final Project
-![мокап](https://user-images.githubusercontent.com/91144936/198847736-c71c68b8-7441-4556-8176-c931f997029a.png)
-
-<img src="(https://user-images.githubusercontent.com/91144936/198847736-c71c68b8-7441-4556-8176-c931f997029a.png)" width="200" height="400">
-
+![мокаgп](https://user-images.githubusercontent.com/91144936/198847885-700fd2c3-953d-4d70-93f2-69bddfca0c69.png)
 
 # Built With 🛠
 + **Kotlin** - Official programming language for Android development. 
