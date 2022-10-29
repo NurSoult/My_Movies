@@ -1,7 +1,7 @@
 # My_Movies
 CSS 216 Android programming - Final Project
 
-Built With 🛠
+# Built With 🛠
 Kotlin - Official programming language for Android development.
 RxJava - For loading data asynchronously.
 ViewModel - Stores UI-related data that isn't destroyed on UI changes.
