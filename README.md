@@ -1,7 +1,8 @@
 # My_Movies
 **CSS 216 Android programming** - Final Project
+![мокап](https://user-images.githubusercontent.com/91144936/198847736-c71c68b8-7441-4556-8176-c931f997029a.png)
 
-<img src="(https://user-images.githubusercontent.com/91144936/198847564-64aa0ab4-9d5b-41c8-a0b1-95affa5e70d7.jpg)" width="200" height="400">
+<img src="(https://user-images.githubusercontent.com/91144936/198847736-c71c68b8-7441-4556-8176-c931f997029a.png)" width="200" height="400">
 
 
 # Built With 🛠
