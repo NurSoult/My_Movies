@@ -13,6 +13,5 @@
 
 # Team 👨‍👨‍👦
 + **Soltangeldinov Nurgali**  *200103098*
-+ **Omargazy Bekzat**  *200103017*
 + **Kadyr Zhassulan**  *200103241*
-+ **Baiguziyev Iliyas**  *200103182*
+
